@@ -1,0 +1,483 @@
+
+
+@media screen and (max-width: 430px) {
+    
+    #bars {
+        font-size: 2rem;
+        display: flex;
+        margin-left: 18rem;
+        padding-top: 1rem;
+    }
+
+    .flexbox {
+        margin-left: 1rem;
+    }
+
+    .two h1 {
+        font-size: 1.5rem;
+    }
+
+    .two p {
+        font-size: 1rem;
+    }
+
+    .two {
+        margin: 0 2rem;
+    }
+
+    .hero2 {
+        display: none;
+    }
+
+    .one, .three {
+        display: none;
+    }
+
+    .eight h2 {
+        font-size: 2rem;
+    }
+
+    .eight p {
+        font-size: 1rem;
+        margin-right: 3rem;
+    }
+
+    #empty {
+        width: 20rem;
+    }
+
+    .seven {
+        margin-right: 3rem;
+        margin-left: 3rem;
+    }
+
+    .hero3 {
+        height: 75rem;
+    }
+
+    .hero4 {
+        height: 90rem;
+    }
+
+    .ten h3 {
+        font-size: 1.8rem;
+        padding-left: 1rem;
+    }
+
+    #empty2 {
+        width: 20rem;
+    }
+
+    #read {
+        padding: 1rem 1rem;
+        margin-left: 1rem;
+    }
+
+    #empty3 {
+        width: 20rem;
+    }
+
+    .flexbox7 {
+        margin-left: 1rem;
+    }
+
+    .intro2 {
+        margin-left: 0;
+    }
+
+    .big-image img{
+        width: 15rem;
+    }
+
+    .sub-heading2 h3{
+        padding-left: 3rem;
+    }
+
+    .sub-heading2 p{
+        padding-left: 3rem;
+    }
+
+    #see {
+        margin-right: 3rem;
+    }
+
+    .hero10 h3 {
+        font-size: 2rem;
+    }
+
+    .flexbox8 {
+        margin-left: 2rem;
+    }
+
+    .flexbox9 {
+        margin-left: 2rem;
+    }
+
+    .twelve img{
+        width: 20rem;
+    }
+
+    .twelve {
+        margin-top: 4rem;
+    }
+
+    #empty4 {
+        width: 20rem;
+    }
+
+    .thirteen h3 {
+        font-size: 1.5rem;
+    }
+
+    .flexbox10 {
+        margin-left: 1rem;
+    }
+
+    .intro-text {
+        margin-right: 4rem;
+    }
+
+    .flexbox11 {
+        margin-left: 1.5rem;
+    }
+
+    .explore h3 {
+        font-size: 2rem;
+    }
+
+    .explore p{
+        margin-right: 0;
+        margin-left: 1rem;
+        text-align: center;
+    }
+
+    #campus {
+        width: 17rem;
+    }
+
+    .para p {
+        padding: 0 2rem;
+        margin-right: 3rem;
+    }
+
+    .sample img {
+        width: 10rem;
+    }
+
+    .sample2 img {
+        width: 10rem;
+    }
+
+    .sample h3 {
+        font-size: 1.5rem;
+    }
+
+    .sample2 h3 {
+        font-size: 1.5rem;
+    }
+
+    .sample {
+        margin-left: 5rem;
+    }
+
+    .sample2 {
+        margin-left: 5rem;
+    }
+
+    .flex-container {
+        margin-left: 1rem;
+    }
+
+    .intro1 {
+        width: 15rem;
+        height: 33rem;
+    }
+
+    .intro1 img {
+        width: 15rem;
+    }
+
+    .intro2 {
+        width: 15rem;
+        height: 33rem;
+        margin-left: 1rem;
+    }
+
+    #notice {
+        width: 15rem;
+    }
+
+    #post {
+        width: 15rem;
+    }
+
+    .intro3 {
+        width: 15rem;
+        height: 35rem;
+    }
+
+    #see {
+        padding: 1rem 2rem;
+    }
+
+    .flexbox8 {
+        margin-left: 1rem;
+    }
+
+    .flexbox9 {
+        margin-left: 1rem;
+    }
+
+    .intro-text h3 {
+        font-size: 1rem;
+    }
+
+    #short2 {
+        margin-left: 0;
+    }
+
+    .flexbox11 {
+        margin-left: 1rem;
+    }
+
+    .must {
+        margin-right: 3rem;
+    }
+
+    .flexbox14 {
+        flex-direction: column;
+        margin-left: 1rem;
+    }
+
+    .hero19 {
+        height: 40rem;
+    }
+
+    .flexbox15 {
+        flex-direction: column;
+        margin-left: 1rem;
+    }
+
+    .links {
+        padding-top: 0;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    
+    #bars {
+        margin-left: 23rem;
+    }
+
+    .flexbox {
+        margin-left: 8rem;
+    }
+
+    #empty {
+        width: 15rem;
+    }
+
+    #empty2 {
+        width: 17rem;
+    }
+
+    .eight p{
+        padding-right: 4rem;
+    }
+
+    .nine img{
+        width: 8rem;
+        margin: 0 0.5rem;
+    }
+
+    #read {
+        padding: 1rem 1.5rem;
+        margin-left: 1rem;
+    }
+
+    #empty3 {
+        width: 17rem;
+    }
+
+    .ten h3  {
+        font-size: 1.5rem;
+    }
+
+    .eleven {
+        margin-right: 7rem;
+    }
+
+    .eighteen p {
+        padding-right: 4rem;
+     }
+
+    .sub-heading p{
+        padding-left: 1rem;      
+    }
+
+    .sub-heading h3 {
+        padding-left: 1rem;
+    } 
+
+    .flexbox7 {
+        margin-left: 0.5rem;
+    }
+
+    .intro1, .intro2, .intro3 {
+        margin-left: 0;
+        margin-right: 3rem;
+    }
+
+    #see {
+        margin-right: 5rem;
+    }
+
+    .big-image {
+        margin-right: 4rem;
+    }
+
+    .sub-heading2 h3{
+        padding-left: 2rem;
+    }
+    
+    .sub-heading2 p{
+        padding-left: 1rem;
+    }
+
+    .hero10 img{
+        width: 15rem;
+    }
+
+    .flexbox8 {
+        margin-left: 2rem;
+    }
+
+    .hero10 h3 {
+        padding-left: 1rem;
+    }
+
+    .hero11 img{
+        width: 15rem;
+    }
+
+    .flexbox9 {
+        margin-left: 2rem;
+    }
+
+    #empty4 {
+        width: 17rem;
+    }
+
+    .intro-text h3 {
+        margin-right: 3rem;
+    }
+
+    .intro-text p {
+        margin-right: 3rem;
+    }
+
+    #short2 {
+        width: 15rem;
+    }
+
+    .flexbox11 img{
+        width: 15rem;
+    }
+
+    .flexbox11 {
+        margin-left: 2rem;
+    }
+
+    .explore p {
+        padding: 0 2rem;
+    }
+
+    #campus {
+        margin-left: 1rem;
+    }
+     
+    .sample {
+        margin-left: 3rem;
+    }
+
+    .sample2 {
+        margin-left: 3rem;
+    }
+
+    .last p {
+        padding-right: 7rem;
+    }
+
+    footer {
+        height: 77rem;
+    }
+}
+
+
+@media screen and (max-width:390px) {
+    
+    #bars {
+        margin-left: 16rem;
+    }
+
+    .nav-links li {
+        font-size: 1rem;
+    }
+
+    .flexbox {
+        margin-left: 2rem;
+    }
+
+    .eleven {
+      margin-right: 4rem;
+   }
+
+   .eighteen p {
+      padding-right: 4rem;
+   }
+
+   #campus {
+    margin-left: 4rem;
+   }
+
+   .explore {
+    margin-left: 2rem;
+   }
+
+   .explore h3 {
+      font-size: 1.5rem;
+   }
+
+   .sample {
+      margin-left: 6rem;
+   }
+
+   .sample2 {
+    margin-left: 6rem;
+ }
+
+}
+
+
+@media screen and (max-width: 375px) {
+    
+    #bars {
+        margin-left: 21rem;
+    }
+
+    .flexbox {
+        margin-left: 7rem;
+    }
+}
+
+
+@media screen and (max-width: 360px) {
+     
+    #bars {
+        margin-left: 20rem;
+    }
+
+    .flexbox {
+        margin-left: 6rem;
+    }
+}

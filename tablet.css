@@ -1,0 +1,1028 @@
+
+
+@media screen and (max-width: 1024px) {
+    
+    #comm {
+        padding-right: 3rem;
+    }
+
+    .second {
+        display: none;
+    }
+
+    .hero3 {
+        height: 60rem;
+    }
+
+    .flexbox2 {
+        flex-direction: column;
+        margin-left: 4rem;
+    }
+
+    .seven {
+        margin-top: 2rem;
+    }
+
+    .eleven h2 {
+        padding-top: 0;
+        font-size: 1rem;
+    }
+
+    .thirteen h3 {
+       font-size: 2rem;
+    }
+
+    .thirteen {
+        margin-left: 1rem;
+    } 
+
+    .fourteen img {
+        width: 25rem;
+    }
+
+    .eighteen {
+        left: 4rem;
+    }
+
+    .eighteen p {
+        font-size: 1rem;
+    }
+
+    .nineteen {
+        left: 29rem;
+    }
+
+    .nineteen p {
+        font-size: 1rem;
+    }
+
+    .twenty {
+        right: 5rem;
+    }
+
+    .twenty p {
+       font-size: 1rem;
+    }
+
+    .flexbox7 {
+        flex-wrap: wrap;
+    }
+
+    .hero8 {
+        height: 110rem;
+    }
+
+    .big-image img {
+        width: 55rem;
+    }
+
+    .image1 img {
+        width: 19rem;
+    }
+
+    .image2 img {
+        width: 19rem;
+    }
+
+    .image3 img {
+        width: 19rem;
+    }
+
+    .image1 {
+        margin-left: 0;
+    }
+
+    .image4 {
+        padding-left: 0;
+    }
+
+    .image4 img {
+        width: 19rem;
+    }
+
+    .image5 img {
+        width: 19rem;
+    }
+
+    .image6 img {
+        width: 19rem;
+    }
+
+    .intro-text {
+        margin-left: 0;
+    }
+
+    .meet h3{
+        padding-left: 1rem;
+    }
+
+    #empty4 {
+        margin-left: 1rem;
+        width: 60rem;
+    }
+
+    .image7 img {
+        width: 20rem;
+    }
+
+    .image8 img {
+        width: 20rem;
+    }
+
+    .image9 img {
+        width: 20rem;
+    }
+
+    #campus {
+        width: 55rem;
+    }
+
+    .must h3 {
+        font-size: 2rem;
+    }
+
+    .para p {
+        padding-bottom: 1rem;
+    }
+
+    .sample img {
+        width: 20rem;
+    }
+
+    .sample2 img {
+        width: 20rem;
+    }
+
+    .sample2 p {
+        font-size: 0.9rem;
+    }
+
+    .sample p {
+        font-size: 0.9rem;
+    }
+
+    .last2 h3 {
+        font-size: 1rem;
+    }
+
+    .last {
+        margin: 0 1rem;
+    }
+
+    .last p {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    
+    #comm {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .twelve img {
+        margin-top: 2rem;
+    }
+
+    .thirteen p {
+        font-size: 0.9rem;
+    }
+
+    .fourteen img {
+        width: 20rem;
+        margin-top: 2rem;
+    }
+
+    .eighteen {
+        left: 2rem;
+    }
+
+    .nineteen {
+        left: 25rem;
+    }
+
+    .twenty {
+        right: 3rem;
+    }
+
+    .image1 img {
+        width: 15rem;
+    }
+
+    .image2 img {
+        width: 15rem;
+    }
+
+    .image3 img {
+        width: 15rem;
+    }
+
+    .image1 {
+        margin-left: 0;
+    }
+
+    .image4 {
+        padding-left: 0;
+    }
+
+    .image4 img {
+        width: 15rem;
+    }
+
+    .image5 img {
+        width: 15rem;
+    }
+
+    .image6 img {
+        width: 15rem;
+    }
+
+    .sample img {
+        width: 15rem;
+    }
+
+    .sample2 img {
+        width: 15rem;
+    }
+
+    .sample p {
+        font-size: 0.8rem;
+    }
+
+    .sample2 p {
+        font-size: 0.8rem;
+    }
+
+    .last p {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 853px) {
+    
+    #comm {
+        padding-left: 1rem;
+        padding-right: 4rem;
+    }
+
+    .nav-links li {
+       padding:  0.5rem 1rem;    
+    }
+
+    .eleven h2 {
+        font-size: 1.2rem;
+    }
+
+    #read {
+        padding: 1rem 2rem;
+    }
+
+    .fourteen img {
+        width: 15rem;
+    }
+
+    .eighteen p{
+        font-size: 0.9rem;
+    }
+
+    .nineteen p{
+        font-size: 0.9rem;
+    }
+
+    .twenty p{
+        font-size: 0.9rem;
+    }
+
+    .nineteen {
+        left: 23rem;
+    }
+
+    .twenty {
+        right: 2rem;
+    }
+
+    .intro1 {
+        margin-left: 0;
+    }
+
+    .big-image img {
+        width: 40rem;
+    }
+
+    .intro-text h3 {
+        font-size: 1.2rem;
+    }
+
+    #campus {
+        width: 50rem;
+    }
+
+    .must h3 {
+        font-size: 1.5rem;
+    }
+
+     .last {
+        margin: 0.5rem;
+    }
+
+    .last p {
+        font-size: 0.8rem;
+     } 
+
+    #empty5 {
+        margin-left: 0.5rem;
+    }
+
+    .image7 img {
+        width: 15rem;
+    }
+
+    .image8 img {
+        width: 15rem;
+        
+    }
+
+    .image9 img {
+        width: 15rem;
+        
+    }
+
+    #empty5 {
+        width: 50rem;
+    }
+
+    #empty3 {
+        width: 50rem;
+        margin-left: 0.5rem;
+    }
+
+    #empty2 {
+        width: 50rem;
+        margin-left: 0.5rem;
+    }
+}
+
+
+@media screen and (max-width: 820px) {
+    
+    .nineteen {
+        left: 22.5rem;
+    }
+
+    .twenty {
+        right: 1rem;
+    }
+
+    .sample p {
+        font-size: 0.7rem;
+    }
+
+    .sample2 p {
+        font-size: 0.7rem;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    
+    #comm {
+        padding-right: 1rem;
+    }
+
+    .nav-links li {
+        padding: 0.5rem 0.5rem;
+    }
+
+    .hero h1 {
+        font-size: 3rem;
+    }
+
+    .hero {
+        margin-right: 8rem;
+    }
+
+    .two p{
+        font-size: 1rem;
+    }
+
+    .flexbox1 {
+        margin-right: 8rem;
+    }
+
+    .flexbox2 {
+        margin-left: 1rem;
+    }
+
+    #empty {
+        width: 30rem;
+    }
+
+    #empty2 {
+        width: 35rem;
+    }
+
+    .flexbox3 {
+        flex-wrap: wrap;
+    }
+
+    .eleven {
+        margin-right: 10rem;
+    }
+
+    .twelve {
+        margin-top: 2rem;
+        margin-right: 20rem;
+    }
+    .hero4 {
+        height: 70rem;
+    }
+
+    .flexbox4 {
+        flex-wrap: wrap;
+    }
+
+    .thirteen {
+        margin-right: 10rem;
+    }
+
+    .fourteen {
+        margin-top: 3rem;
+        margin-right: 25rem;
+    }
+
+    .hero5 {
+        height: 40rem;
+    }
+
+    #empty3 {
+        width: 35rem;
+    }
+
+    .fifteen h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .fifteen p {
+       font-size: 1rem;
+    }
+
+    .sixteen h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .sixteen p {
+       font-size: 1rem;
+    }
+
+    .seventeen h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .seventeen p {
+       font-size: 1rem;
+    }
+
+    .seventeen {
+        margin-right: 8rem;
+    }
+
+     .eighteen h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .eighteen p {
+       font-size: 0.7rem;
+    }
+
+    .eighteen {
+        left: 1rem;
+    }
+
+    .nineteen h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .nineteen p {
+       font-size: 0.7rem;
+    }
+    
+    .nineteen {
+        left: 18rem;
+    }
+
+    .twenty h3 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .twenty p {
+       font-size: 0.7rem;
+    }
+
+    .twenty {
+        right: 9rem;
+    }
+
+    .intro2 {
+        margin-right: 5rem;
+        margin-left: 5rem;
+        margin-top: 3rem;
+    }
+
+    .hero8 {
+        height: 150rem;
+    }
+
+    .flexbox7 {
+        margin-right: 5rem;
+    }
+
+    .sub-heading {
+        margin-right: 10rem;
+        text-align: center;
+    }
+
+    #see {
+        margin-right: 5rem;
+    }
+
+    .big-image img {
+        width: 35rem;
+        margin-right: 10rem;
+    }
+
+    .image1 img {
+        width: 12rem;
+    }
+
+    .image2 img {
+        width: 12rem;
+    }
+
+    .image3 img {
+        width: 12rem;
+    }
+
+    .image3 {
+        margin-right: 9rem;
+    }
+
+    .image4 img {
+        width: 12rem;
+    }
+
+    .image5 img {
+        width: 12rem;
+    }
+
+    .image6 img {
+        width: 12rem;
+    }
+
+    .image6 {
+        margin-right: 9rem;
+    }
+
+    #empty4 {
+        width: 35rem;
+    }
+
+    .intro-text h3 {
+        font-size: 0.9rem;
+    }
+
+    .intro-text {
+        margin-left: 0.7rem;
+    }
+
+    #short2 {
+        margin-top: 8rem;
+        margin-left: 1rem;
+    } 
+
+    .image7 img {
+        width: 12rem;
+    }
+
+    .image8 img {
+        width: 12rem;
+    }
+
+    .image9 img {
+        width: 12rem;
+    }
+
+    .image9 {
+        margin-right: 7rem;
+    }
+
+    .explore {
+        margin-right: 5rem;
+    }
+
+    #campus {
+        width: 40rem;
+        margin-right: 6.5rem;
+    }
+
+    .must h3 {
+        font-size: 1rem;
+    }
+
+    .sample img {
+        width: 12rem;
+    }
+
+    .sample {
+        margin-left: 0.5rem;
+    }
+
+    .sample2 img {
+        width: 12rem;
+    }
+
+    .sample2 {
+        margin-right: 6rem;
+    }
+
+    .meet h3 {
+        font-size: 1.5rem;
+    }
+
+    #all a {
+        top: 5rem;
+        font-size: 1.5rem;
+        right: 8rem;
+    }
+
+    .flexbox14 {
+        margin-right: 7rem;
+    }
+
+    .flexbox16 {
+        flex-direction: column;
+    }
+
+    .last3 {
+        display: none;
+    }
+
+    .last4 {
+        display: none;
+    }
+
+    .connect h3 {
+        font-size: 2rem;
+        padding-top: 2.5rem;
+    }
+
+    #empty4 {
+        width: 40rem;
+    }
+
+    .links {
+        margin-right: 5rem;
+    }
+
+    #top {
+        margin-right: 2rem;
+    }
+
+    #empty5 {
+        width: 40rem;
+    }
+
+    footer {
+        height: 70rem;
+    }
+
+    .last, .last2 {
+        margin-left: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 540px) {
+    
+    #bars {
+        color: white;
+        font-size: 2rem;
+        display: flex;
+        margin-left: 23rem;
+        padding-top: 1rem;
+    }
+
+    #comm {
+        padding-left: 0.5rem;
+    }
+
+    .first {
+        height: 4rem;
+    }
+    
+    .nav-links {
+        padding: 1.5rem 0;
+        background-color: blueviolet;
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100px;
+        left: 0;
+        right: 10rem;
+        width: 90%;
+    }
+
+    .nav-links li {
+        font-size: 1.2rem;
+        border-right: none;
+    }
+
+    .show {
+        display: block;
+    }
+
+    .flexbox {
+        margin-left: 1rem;
+    }
+
+    .two h1 {
+        font-size: 1.5rem;
+    }
+
+    .two p {
+        font-size: 1rem;
+    }
+
+    .two {
+        margin: 0 2rem;
+    }
+
+    .flexbox1 {
+        margin-left: 5rem;
+    }
+
+    .four p {
+        font-size: 1rem;
+    }
+
+    .six p {
+        font-size: 1rem;
+        padding-left: 0;
+    }
+
+    .five {
+        padding: 0 3rem;
+    }
+
+    .seven {
+        margin-right: 2rem;
+    }
+
+    .eight p {
+        font-size: 0.85rem;
+    }
+
+    .nine {
+        margin-left: 1rem;
+    }
+
+    .fourteen {
+        margin-left: 1rem;
+    }
+
+    #empty2 {
+        width: 30rem;
+    }
+
+    #empty3 {
+        width: 30rem;
+    }
+
+    .flexbox6{
+        flex-direction: column;
+        margin-left: 1rem;
+    }
+
+    .sixteen {
+        margin: 1.5rem 0;
+    }
+    .hero6 {
+        height: 20rem;
+    }
+
+    .hero7 {
+        height: 20rem;
+    }
+
+    .hero7 p {
+        font-size: 1rem;
+    }
+
+    .nineteen {
+        top: 7rem;
+        left: 1rem;
+    }
+
+    .twenty {
+        top: 14rem;
+        left: 1rem;
+    }
+
+    .intro2 {
+        margin-left: 3.5rem;
+    }
+
+    .big-image img{
+        width: 30rem;
+        margin-right: 2rem;
+    }
+
+    .hero10 h3 {
+        padding-left: 2rem;
+    }
+
+    .hero10 {
+        height: 70rem;
+    }
+
+    .hero10 img {
+        width: 20rem;
+    }
+
+    .image2 {
+        margin: 2rem 0;
+    }
+
+    .flexbox8 {
+        flex-direction: column;
+        margin-left: 5rem;
+    }
+
+    .hero11 {
+        height: 60rem;
+    }
+
+    .flexbox9 {
+        flex-direction: column;
+        margin-left: 5rem;
+    }
+
+    .hero11 img {
+        width: 20rem;
+    }
+
+    .image5 {
+        margin: 2rem 0;
+    }
+
+    #empty4 {
+        width: 30rem;
+    }
+
+    .flexbox10 {
+        flex-direction: column;
+        margin-left: 3rem;
+    }
+
+    #short2 {
+        margin-top: 4rem;
+        width: 20rem;
+    }
+
+    .hero12 {
+        height: 60rem;
+    }
+
+    .hero13 {
+        height: 80rem;
+    }
+
+    .hero13 img {
+        width: 20rem;
+    }
+
+    .flexbox11 {
+        flex-direction: column;
+        margin-left: 5rem;
+    }
+
+    .image8 {
+       margin: 3rem 0;
+    }
+
+    #campus {
+        width: 27rem;
+        margin-left: 3rem;
+        
+    }
+
+    .flexbox12 {
+        flex-direction: column;
+    }
+
+    .must h3 {
+        font-size: 1.5rem;
+    }
+
+    .para {
+        padding-top: 1rem;
+        padding-right: 2rem;
+        text-align: center;
+    }
+
+    .para a {
+        margin-left: 2rem;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        margin-left: 3rem;
+    }
+    
+    .hero16 {
+        height: 85rem;
+    }
+
+    .hero16 img {
+        width: 20rem;
+    }
+
+    #zoom {
+        padding-bottom: 1rem;
+    }
+
+    .sample {
+        margin-top: 2rem;
+        margin-left: 7rem;
+    }
+
+    .sample2 {
+        margin-top: 2rem;
+        margin-left: 7rem;
+    }
+
+    .hero17 {
+        height: 60rem;
+    }
+
+    .hero18 {
+        height: 80rem;
+    }
+
+    .flexbox13 {
+        flex-direction: column;
+    }
+
+    .flexbox11 {
+        margin-left: 5rem;
+    }
+
+    .hero18 img {
+        width: 20rem;
+    }
+
+    #all a {
+        display: none;
+    }
+
+    .flexbox14 {
+        margin-right: 2rem;
+    }
+
+    .connect h3 {
+        font-size: 1.5rem;
+    }
+
+    .last p {
+        font-size: 1rem;
+    }
+
+    .links a{  
+        padding-left: 0.5rem;
+    }
+
+    .links {
+        margin-right: 3rem;
+    }
+    
+    .end, .end2 {
+        display: none;
+     }
+
+     footer {
+        height: 65rem;
+     }
+
+     #empty5 {
+        display: none;
+     }
+
+}
+

@@ -1,0 +1,892 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links li{
+    color: white;
+    padding:  0.5rem 2rem;
+    border-right: 1px dotted white;
+    font-size: small;
+}
+
+.nav-links {
+    list-style-type: none;   
+    display: flex;
+    align-items: center;
+}
+
+.first{
+    background-color: brown;
+    height: 2rem;
+}
+
+#comm{
+    padding-right: 25rem;
+    padding-left: 3rem;
+}
+
+#bars {
+    display: none;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.second li{
+    float: left;
+    padding: 2rem 1rem;
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: 700;
+}
+
+.second{
+    list-style-type: none;
+    height: 6rem;
+    background-color: white;
+    width: 100%;
+}
+
+#logo{
+    margin-left: 2rem;
+    background-color: brown;
+    padding: 0.5rem 2rem;
+    margin-top: 0.5rem;
+}
+
+header{
+    background-image: url('./images/Rectangle-2-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60rem;
+    position: relative;
+}
+
+.hero h3{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    font-size: 1rem;
+}
+
+.hero h1{
+    color: white;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: 4rem;
+    padding-bottom: 3rem;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4rem;
+}
+.one{
+    color: white;
+}
+.two p{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 0.3rem;
+}
+
+.two{
+    text-align: center;
+}
+
+.three{
+    color: white;
+}
+
+.flexbox1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 7rem;
+    color: white;
+}
+
+.four h4{
+    padding-bottom: 0.2rem;
+}
+
+.four p{
+    font-size: 1.2rem;
+}
+
+.six h4{
+    padding-bottom: 0.2rem;
+}
+
+.six p{
+    font-size: 1.2rem;
+    padding-left: 4rem;
+}
+
+.flexbox2{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4rem;
+}
+
+.hero3{
+    height: 30rem;
+    background-color: black;
+}
+#empty{
+    border-bottom: 0.2rem solid white;
+    width: 40rem;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.hero3 p{
+    padding-top: 0.3rem;
+    opacity: 0.7;
+}
+
+.hero3 h2{
+    font-size: 3rem;
+}
+
+.seven{
+    order: 2;
+}
+
+#frame15{
+    margin-right: 0.5rem;
+}
+
+#frame28{
+    margin-right: 0.5rem;
+}
+
+.nine{
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+
+.hero4{
+    height: 44rem;
+}
+
+.ten h3{
+    font-size: 2rem;
+    padding-left: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+#empty2{
+    border-bottom: 1px solid grey;
+    width: 75rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+}
+
+#unnamed{
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+}
+
+.eleven h2{
+    padding-top: 0.3rem;
+    padding-left: 3rem;
+}
+
+.eleven h4{
+    padding-top: 2rem;
+    padding-left: 3rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+.eleven h5{
+    font-weight: 400;
+    font-size: 1rem;
+    padding-top: 2rem;
+    letter-spacing: 1px;
+    padding-left: 3rem;
+}
+
+#read{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 1rem 4rem;
+    margin-left: 3rem;
+    font-weight: bold;
+}
+
+.fa-arrow-right{
+    margin-left: 0.5rem;
+}
+
+.flexbox3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero5{
+    height: 30rem;
+}
+
+.thirteen h3{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+.thirteen p{
+    font-size: 1rem;
+    color: grey;
+    padding-top: 0.3rem;
+}
+
+#shift{
+    padding-bottom: 3rem;
+}
+
+#learn{
+    color: black;
+    font-weight: 500;
+}
+
+.fa-circle-arrow-right{
+    margin-left: 0.2rem;
+}
+
+.flexbox4{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5rem;
+}
+
+#empty3{
+    width: 78rem;
+    border-bottom: 1px solid grey;
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+
+.hero6{
+    height: 10rem;
+}
+
+.fifteen h3{
+    font-size: 2rem;
+    padding-bottom: 3rem;
+    color: brown;
+}
+
+.fifteen p{
+    font-size: 1.2rem;
+}
+
+.sixteen h3{
+    font-size: 2rem;
+    color: brown;
+    padding-bottom: 3rem;
+}
+
+.sixteen p{
+    font-size: 1.2rem;
+}
+
+.seventeen h3{
+    font-size: 2rem;
+    color: brown;
+    padding-bottom: 3rem;
+}
+
+.seventeen p{
+    font-size: 1.2rem;
+}
+
+.flexbox6{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero7{
+    height: 10rem;
+    position: relative;
+}
+
+.eighteen h3{
+    font-size: 2rem;
+    color: brown;
+    padding-bottom: 3rem;
+}
+
+.eighteen{
+    position: absolute;
+    left: 8rem;
+}
+
+.eighteen p{
+    font-size: 1.2rem;
+}
+
+.nineteen h3{
+    font-size: 2rem;
+    color: brown;
+    padding-bottom: 3rem;
+}
+
+.nineteen{
+    position: absolute;
+    left: 40rem;
+    top: 0;
+}
+
+.nineteen p{
+    font-size: 1.2rem;
+}
+
+.twenty{
+    position: absolute;
+    right: 10rem;
+    top: 0;
+}
+
+.twenty h3{
+    font-size: 2rem;
+    color: brown;
+    padding-bottom: 3rem;
+}
+
+.twenty p{
+    font-size: 1.2rem;
+}
+
+.hero8{
+    height: 60rem;
+}
+
+.sub-heading h3{
+    font-size: 3rem;
+    padding-top: 3rem;
+    padding-left: 7rem;
+    padding-bottom: 2rem;
+}
+
+.sub-heading p{
+    padding-left: 7rem;
+    color: grey;
+}
+
+#whats{
+    margin-bottom: 3rem;
+}
+
+.intro1 h3 a{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#zoom{
+    padding-bottom: 2rem;
+}
+
+.intro1 p{
+    padding-top: 0.2rem;
+    color: grey;
+}
+
+.intro1{
+    padding: 2rem;
+    height: 32rem;
+    width: 18rem;
+    background-color: whitesmoke;
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+
+.intro2 h3 a{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.intro2 p{
+    padding-top: 0.2rem;
+    color: grey;
+}
+
+.intro2{
+    padding: 2rem;
+    height: 32rem;
+    width: 18rem;
+    background-color: whitesmoke;
+    margin-top: 3rem;
+}
+
+#notice{
+    margin-bottom: 3rem;
+    width: 18rem;
+    height: 18rem;
+}
+
+.intro3{
+    padding: 2rem;
+    height: 32rem;
+    width: 18rem;
+    background-color: whitesmoke;
+    margin-top: 3rem;
+}
+
+#post{
+    margin-bottom: 3rem;
+    width: 18rem;
+    height: 18rem;
+}
+
+.intro3 h3 a{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;    
+}
+
+.intro3 p{
+    padding-top: 0.2rem;
+    color: grey;
+}
+
+.flexbox7{
+    display: flex;
+    justify-content: space-around;
+}
+
+#see{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 1rem 5rem;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    margin: 3rem 0;
+}
+
+.read{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-heading2 h3{
+    font-size: 3rem;
+    padding-top: 3rem;
+    padding-left: 7rem;
+    padding-bottom: 2rem;
+}
+
+.sub-heading2 p{
+    padding-left: 7rem;
+    color: grey;
+}
+
+.hero9{
+    height: 60rem;
+}
+
+.big-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3rem;
+}
+
+.hero10{
+    height: 30rem;
+    background-color: rgb(230, 219, 222);
+}
+
+.hero10 h3{
+    font-size: 3rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.flexbox8{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image1{
+    margin-left: 7rem;
+}
+
+.hero11{
+    height: 20rem;
+    background-color: rgb(230, 219, 222)
+}
+
+.flexbox9{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image4{
+    padding-left: 7rem;
+}
+
+.hero12{
+    height: 40rem;
+    background-color: black;
+}
+
+.meet h3{
+    font-size: 3rem;
+    padding-left: 7rem;
+    padding-bottom: 2rem;
+    padding-top: 5rem;
+    color: white;
+}
+
+#empty4{
+    width: 75rem;
+    border-bottom: 1px solid white;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}
+
+.intro-text{
+    color: white;
+    margin-left: 7rem;
+}
+
+#short{
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+
+.intro-text h3{
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.intro-text h4{
+    padding-top: 2rem;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+    padding-bottom: 0.7rem;
+}
+
+.flexbox10{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero13{
+    height: 30rem;
+    background-color: black;
+    padding-top: 5rem;
+}
+
+.flexbox11{
+    display: flex;
+    justify-content: space-around;
+}
+
+.explore h3{
+    font-size: 3rem;
+    padding-bottom: 1rem ;
+}
+
+.explore p{
+    color: grey;
+    padding-top: 0.2rem;
+}
+
+.explore h6{
+    padding-top: 1.5rem;
+    font-size: 0.8rem;
+}
+
+.explore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15rem;
+    padding-top: 3rem;
+    flex-direction: column;
+}
+
+#campus{
+    width: 75rem;
+    height: 40rem;
+    margin-bottom: 5rem;
+}
+
+.big-image2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero15{
+    height: 10rem;
+}
+
+.must h3{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.para p{
+    color: grey;
+    padding-bottom: 3rem;
+}
+
+.para a{
+    color: black;
+    font-weight: 600;
+}
+
+.flexbox12{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero16{
+    height: 35rem;
+}
+
+.sample h3{
+    font-size: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.sample p{
+    padding-top: 0.2rem;
+    color: grey;
+}
+
+.sample a{
+    color: black;
+    font-weight: 600;
+}
+
+.sample2 h3 {
+    font-size: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.sample2 p {
+    padding-top: 0.2rem;
+    color: grey;
+}
+
+.sample2 a {
+    color: black;
+    font-weight: 600;
+}
+
+.flexbox13{
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero17{
+    height: 40rem;
+    background-color: black;
+}
+
+.hero18{
+    height: 32rem;
+    background-color: black;
+    padding-top: 3rem;
+}
+
+.hero19{
+    height: 27rem;
+    background-color: rgb(110, 11, 11);
+    position: relative;
+}
+
+#all  a{
+  color: goldenrod;
+  position: absolute;
+  font-weight: bold;
+  text-decoration: none;
+  right: 5rem;
+  top: 7rem;
+}
+
+.look p{
+    padding-top: 0.8rem;
+}
+
+.look a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#dot{
+    margin-right: 0.3rem;
+}
+
+.flexbox14{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    height: 50rem;
+    background-color: black;
+}
+
+.connect h3{
+    color: white;
+    font-size: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+.links a{
+    color: white;
+    text-decoration: none;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+
+.links{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.flexbox15{
+    display: flex;
+    justify-content: space-around;
+}
+
+.last h3{
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.last p{
+    color: white;
+    padding-top: 0.2rem;
+    opacity: 0.8;
+}
+
+.last2 a{
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.last2 p{
+    padding-top: 1.5rem;
+    color: white;
+}
+
+.last2 h3{
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;  
+}
+
+.last3 a{
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.last3 p{
+    padding-top: 1.5rem;
+    color: white;
+}
+
+.last3 h3{
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;  
+}
+
+.last4 a{
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.last4 p{
+    padding-top: 1.5rem;
+    color: white;
+}
+
+.last4 h3{
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;  
+}
+
+
+#dot2{
+    margin-right: 0.5rem;
+}
+
+.flexbox16{
+    display: flex;
+    justify-content: space-around;
+}
+
+#empty5{
+    width: 75rem;
+    margin-left: 2rem;
+    border-bottom: 1px solid goldenrod;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+#top{
+    padding: 1rem 3rem;
+    color: black;
+    background-color: goldenrod;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.end p{
+    color: white;
+    opacity: 0.7;
+    padding-left: 4rem;
+}
+
+.end2{
+    padding-right: 7rem;
+}
+
+.flexbox17{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
