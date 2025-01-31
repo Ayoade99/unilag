@@ -570,11 +570,15 @@ body {
     }
 
     .twelve {
-        margin-left: 2rem;
+        margin-left: 5rem;
     }
 
     .fourteen img{
-        width: 7rem;
+        width: 10rem;
+    }
+
+    .fourteen {
+        margin-left: 7rem;
     }
     
 }
