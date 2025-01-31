@@ -560,6 +560,22 @@ body {
         margin-right: 0;
         margin-left: 2rem;
     }
+
+    .intro1, .intro2, .intro3 {
+        margin-left: 2rem;
+    }
+
+    .twelve img {
+        width: 15rem;
+    }
+
+    .twelve {
+        margin-left: 2rem;
+    }
+
+    .fourteen img{
+        width: 7rem;
+    }
     
 }
 
@@ -585,6 +601,14 @@ body {
 
     .para a {
         font-size: 0.7rem;
+    }
+
+    .twelve img {
+        width: 15rem;
+    }
+
+    .twelve {
+        margin-left: 1rem;
     }
    
 }
