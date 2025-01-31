@@ -562,7 +562,7 @@ body {
     }
 
     .intro1, .intro2, .intro3 {
-        margin-left: 2rem;
+        margin-left: 3rem;
     }
 
     .twelve img {
@@ -570,7 +570,7 @@ body {
     }
 
     .twelve {
-        margin-left: 5rem;
+        margin-left: 7rem;
     }
 
     .fourteen img{
@@ -578,7 +578,7 @@ body {
     }
 
     .fourteen {
-        margin-left: 7rem;
+        margin-left: 10rem;
     }
     
 }
