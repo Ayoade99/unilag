@@ -1,5 +1,9 @@
 
 
+body {
+    overflow-x: hidden;
+}
+
 @media screen and (max-width: 430px) {
     
     #bars {
@@ -10,7 +14,7 @@
     }
 
     .flexbox {
-        margin-left: 1rem;
+        margin-left: 4rem;
     }
 
     .two h1 {
@@ -39,11 +43,11 @@
 
     .eight p {
         font-size: 1rem;
-        margin-right: 3rem;
+        margin-right: 6rem;
     }
 
     #empty {
-        width: 20rem;
+        width: 18rem;
     }
 
     .seven {
@@ -78,7 +82,7 @@
     }
 
     .flexbox7 {
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
 
     .intro2 {
@@ -424,24 +428,49 @@
         font-size: 1rem;
     }
 
+    #empty {
+        width: 12rem;
+    }
+
     .flexbox {
         margin-left: 2rem;
     }
 
-    .eleven {
-      margin-right: 4rem;
+    .nine img {
+        width: 7rem;
+    }
+
+    .eleven h2{
+      padding-left: 1rem;
+   }
+
+   .eleven h4{
+    padding-left: 1rem;
+   }
+
+   .eleven h5{
+    padding-left: 1rem;
+   }
+
+   #read {
+      padding: 1rem 1rem;
+      margin-left: 1rem;
    }
 
    .eighteen p {
-      padding-right: 4rem;
+      padding-right: 6rem;
+   }
+
+   .nineteen p {
+      padding-right: 6rem;
    }
 
    #campus {
-    margin-left: 4rem;
+    margin-left: 1rem;
    }
 
    .explore {
-    margin-left: 2rem;
+    margin-left: 0;
    }
 
    .explore h3 {
@@ -449,12 +478,45 @@
    }
 
    .sample {
-      margin-left: 6rem;
+      margin-left: 2rem;
    }
 
    .sample2 {
-    margin-left: 6rem;
- }
+    margin-left: 3rem;
+   }
+
+  .intro1 {
+    width: 14rem;
+    height: 33rem;
+   }
+
+   .intro2 {
+    width: 14rem;
+    height: 34rem;
+   }
+
+   .intro3 {
+    width: 14rem;
+    height: 37rem;
+   }
+
+   .sub-heading2 p {
+     padding-right: 7rem;
+   }
+
+   .hero10 h3 {
+     font-size: 1.5rem;
+     padding-left: 3rem;
+   }
+   
+   .must {
+    margin-right: 6rem;
+   }
+
+   .para  {
+       margin-right: 1rem;
+   }
+
 
 }
 
@@ -466,8 +528,39 @@
     }
 
     .flexbox {
-        margin-left: 7rem;
+        margin-left: 6rem;
     }
+
+    #read {
+        padding: 1rem 0.5rem;
+        margin-left: 1rem;
+    }
+
+     .flexbox6 {
+        padding-top: 3rem;
+    }
+
+     #campus {
+        margin-left: 4rem;
+    }
+
+    .sample {
+        margin-left: 4rem;
+    } 
+
+    .sample2 {
+        margin-left: 4rem;
+    }
+    
+    .must {
+        margin-right: 3rem;
+    }
+    
+    .para  {
+        margin-right: 0;
+        margin-left: 2rem;
+    }
+    
 }
 
 
@@ -479,5 +572,86 @@
 
     .flexbox {
         margin-left: 6rem;
+    }
+
+    #read {
+        padding: 1rem 0.4rem;
+        margin-right: 0;
+    }    
+
+    .hero15 {
+        height: 13rem;
+    }
+
+    .para a {
+        font-size: 0.7rem;
+    }
+   
+}
+
+
+@media screen and (max-width: 320px) {
+    
+
+    #bars {
+        margin-left: 17rem;
+    }
+
+    .flexbox {
+        margin-left: 5rem;
+    }
+
+    .hero3 {
+        height: 80rem;
+    }
+
+    #read {
+        padding: 1rem 0.3rem;
+        font-size: 0.8rem;
+        margin-right: 0;
+    }
+
+    .flexbox6 {
+        margin-top: 2rem;
+    }
+
+    .big-image {
+        margin-left: 2rem;
+    }
+
+    #see {
+        margin-right: 4rem;
+    }
+
+    .explore {
+        margin-right: 1rem;
+    }
+
+    #campus {
+        margin-right: 4rem;
+    }
+
+    .must {
+        margin-right: 1rem;
+    }
+
+    .para p {
+        margin-right: 1rem;
+    }
+
+    .sample {
+        margin-left: 3rem;
+    }
+
+    .sample2 {
+        margin-left: 3rem;
+    }
+
+    .hero15 {
+        height: 13rem;
+    }
+
+    .para a {
+        font-size: 0.6rem;
     }
 }
