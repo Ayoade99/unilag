@@ -9,7 +9,7 @@ body {
     #bars {
         font-size: 2rem;
         display: flex;
-        margin-left: 18rem;
+        margin-left: 24rem;
         padding-top: 1rem;
     }
 
@@ -274,7 +274,7 @@ body {
     }
 
     .flexbox {
-        margin-left: 8rem;
+        margin-left: 7rem;
     }
 
     #empty {
@@ -418,10 +418,21 @@ body {
 }
 
 
+
+@media screen and (max-width: 412px) {
+    
+   #bars {
+        margin-left: 23rem;
+    }
+
+}
+
+
+
 @media screen and (max-width:390px) {
     
     #bars {
-        margin-left: 16rem;
+        margin-left: 21rem;
     }
 
     .nav-links li {
@@ -561,25 +572,6 @@ body {
         margin-left: 2rem;
     }
 
-    .intro1, .intro2, .intro3 {
-        margin-left: 3rem;
-    }
-
-    .twelve img {
-        width: 15rem;
-    }
-
-    .twelve {
-        margin-left: 7rem;
-    }
-
-    .fourteen img{
-        width: 10rem;
-    }
-
-    .fourteen {
-        margin-left: 10rem;
-    }
     
 }
 
@@ -607,13 +599,7 @@ body {
         font-size: 0.7rem;
     }
 
-    .twelve img {
-        width: 15rem;
-    }
-
-    .twelve {
-        margin-left: 1rem;
-    }
+    
    
 }
 
