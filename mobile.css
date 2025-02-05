@@ -1,11 +1,9 @@
 
 
-/* body {
-    overflow-x: hidden;
-} */
 
 @media screen and (max-width: 430px) {
     
+
     #bars {
         font-size: 2rem;
         display: flex;
@@ -14,7 +12,7 @@
     }
 
     .flexbox {
-        margin-left: 4rem;
+        margin-left: 7rem;
     }
 
     .two h1 {
@@ -47,7 +45,7 @@
     }
 
     #empty {
-        width: 18rem;
+        width: 22rem;
     }
 
     .seven {
@@ -82,7 +80,14 @@
     }
 
     .flexbox7 {
-        margin-left: 0.5rem;
+        margin-left: 0;
+        margin-right: 6.5rem;
+    }
+
+    .sub-heading {
+        margin-left: 0;
+        margin-right: 13rem;
+
     }
 
     .intro2 {
@@ -93,16 +98,21 @@
         width: 15rem;
     }
 
+    .big-image {
+        margin-right: 4rem;
+    }
+
     .sub-heading2 h3{
         padding-left: 3rem;
     }
 
     .sub-heading2 p{
         padding-left: 3rem;
+        padding-right: 6rem;
     }
 
     #see {
-        margin-right: 3rem;
+        margin-right: 6rem;
     }
 
     .hero10 h3 {
@@ -111,6 +121,10 @@
 
     .flexbox8 {
         margin-left: 2rem;
+    }
+
+    .hero11 img {
+        width: 17rem;
     }
 
     .flexbox9 {
@@ -126,7 +140,7 @@
     }
 
     #empty4 {
-        width: 20rem;
+        width: 18rem;
     }
 
     .thirteen h3 {
@@ -138,11 +152,19 @@
     }
 
     .intro-text {
-        margin-right: 4rem;
+        margin-right: 7rem;
     }
 
-    .flexbox11 {
-        margin-left: 1.5rem;
+    #short2 {
+        width: 15rem;
+    }
+
+    .hero10 img{
+        width: 17rem;
+    }
+
+    .hero13 img {
+        width: 15rem;
     }
 
     .explore h3 {
@@ -151,17 +173,18 @@
 
     .explore p{
         margin-right: 0;
-        margin-left: 1rem;
+        margin: 0 3rem;
         text-align: center;
     }
 
     #campus {
         width: 17rem;
+        margin-left: 0;
     }
 
     .para p {
         padding: 0 2rem;
-        margin-right: 3rem;
+        margin-right: 6rem;
     }
 
     .sample img {
@@ -181,11 +204,11 @@
     }
 
     .sample {
-        margin-left: 5rem;
+        margin-left: 3rem;
     }
 
     .sample2 {
-        margin-left: 5rem;
+        margin-left: 3rem;
     }
 
     .flex-container {
@@ -224,33 +247,29 @@
         padding: 1rem 2rem;
     }
 
-    .flexbox8 {
-        margin-left: 1rem;
-    }
-
-    .flexbox9 {
-        margin-left: 1rem;
-    }
-
     .intro-text h3 {
         font-size: 1rem;
     }
 
-    #short2 {
-        margin-left: 0;
+    .flex-container2 {
+        margin-left: 1.5rem;
     }
 
-    .flexbox11 {
-        margin-left: 1rem;
+    .hero15 {
+        height: 15rem;
     }
 
     .must {
-        margin-right: 3rem;
+        margin-right: 7rem;
     }
 
     .flexbox14 {
         flex-direction: column;
         margin-left: 1rem;
+    }
+
+    .hero18 img {
+        width: 17rem;
     }
 
     .hero19 {
@@ -265,6 +284,14 @@
     .links {
         padding-top: 0;
     }
+
+    .last p{
+        padding-right: 7rem;
+    }
+
+    footer {
+        height: 75rem;
+    }
 }
 
 @media screen and (max-width: 414px) {
@@ -278,7 +305,7 @@
     }
 
     #empty {
-        width: 15rem;
+        width: 20rem;
     }
 
     #empty2 {
@@ -357,7 +384,7 @@
     }
 
     .hero10 h3 {
-        padding-left: 1rem;
+        padding-left: 0.5rem;
     }
 
     .hero11 img{
@@ -598,9 +625,48 @@
     .para a {
         font-size: 0.7rem;
     }
-
-    
    
+}
+
+
+
+@media screen and (max-width: 344px) {
+
+    #bars {
+        margin-left: 16rem;
+    }
+
+    .flexbox {
+        margin-left: 4rem;
+    }
+
+    #read {
+        padding: 1rem 0.3rem;
+        font-size: 0.8rem;
+        margin-right: 0;
+    }
+
+
+    .twelve img {
+        width: 12rem;
+    }
+
+    .twelve {
+        margin-left: 2rem;
+    }
+
+    .sub-heading {
+        margin-right: 5rem;
+    }
+
+    .flexbox7 {
+        margin-left: 0.3rem;
+    }
+
+    .big-image {
+        margin-left: 2rem;
+    }
+    
 }
 
 
@@ -608,11 +674,11 @@
     
 
     #bars {
-        margin-left: 17rem;
+        margin-left: 15rem;
     }
 
     .flexbox {
-        margin-left: 5rem;
+        margin-left: 4rem;
     }
 
     .hero3 {

@@ -913,6 +913,11 @@
         margin-left: 5rem;
     }
 
+    .flex-container2 {
+        flex-direction: column;
+        margin-left: 5rem;
+    }
+
     .image8 {
        margin: 3rem 0;
     }
@@ -978,10 +983,6 @@
 
     .flexbox13 {
         flex-direction: column;
-    }
-
-    .flexbox11 {
-        margin-left: 5rem;
     }
 
     .hero18 img {
