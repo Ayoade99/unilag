@@ -2,6 +2,7 @@
 
 @media screen and (max-width: 1024px) {
     
+
     #comm {
         padding-right: 3rem;
     }
@@ -17,6 +18,22 @@
     .flexbox2 {
         flex-direction: column;
         margin-left: 4rem;
+    }
+
+    .image-6 img {
+        width: 15rem;
+    }
+    
+    .image-6 {
+        margin-top: 8rem;
+    }
+
+    .image6 {
+        margin-top: 8rem;
+    }
+
+    .image6 img {
+        width: 15rem;
     }
 
     .seven {
@@ -101,10 +118,6 @@
     }
 
     .image5 img {
-        width: 19rem;
-    }
-
-    .image6 img {
         width: 19rem;
     }
 
@@ -234,7 +247,11 @@
         width: 15rem;
     }
 
-    .image6 img {
+    .images6 img {
+        width: 15rem;
+    }
+
+    .hero13 img {
         width: 15rem;
     }
 
@@ -252,6 +269,10 @@
 
     .sample2 p {
         font-size: 0.8rem;
+    }
+
+    .hero18 img {
+        width: 15rem;
     }
 
     .last p {
@@ -381,6 +402,28 @@
     .sample2 p {
         font-size: 0.7rem;
     }
+
+    #empty4 {
+        width: 45rem;
+    }
+
+    #empty2 {
+        width: 45rem;
+    }
+
+    #empty3 {
+        width: 45rem;
+    }
+
+    #empty5 {
+        width: 45rem;
+    }
+
+    #campus {
+        width: 40rem;
+    }
+
+    
 }
 
 
@@ -388,7 +431,7 @@
 @media screen and (max-width: 768px) {
     
     #comm {
-        padding-right: 1rem;
+        padding-right: 4rem;
     }
 
     .nav-links li {
@@ -400,7 +443,7 @@
     }
 
     .hero {
-        margin-right: 8rem;
+        margin-right: 0;
     }
 
     .two p{
@@ -408,7 +451,7 @@
     }
 
     .flexbox1 {
-        margin-right: 8rem;
+        margin-right: 0;
     }
 
     .flexbox2 {
@@ -416,25 +459,33 @@
     }
 
     #empty {
-        width: 30rem;
+        width: 40rem;
     }
 
     #empty2 {
-        width: 35rem;
+        width: 45rem;
+    }
+
+    #empty3 {
+        width: 45rem;
+    }
+
+    .flexbox2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .flexbox3 {
-        flex-wrap: wrap;
-    }
-
-    .eleven {
-        margin-right: 10rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .twelve {
         margin-top: 2rem;
-        margin-right: 20rem;
     }
+
     .hero4 {
         height: 70rem;
     }
@@ -443,21 +494,18 @@
         flex-wrap: wrap;
     }
 
-    .thirteen {
-        margin-right: 10rem;
-    }
-
     .fourteen {
         margin-top: 3rem;
-        margin-right: 25rem;
+    }
+
+    .flexbox4 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero5 {
         height: 40rem;
-    }
-
-    #empty3 {
-        width: 35rem;
     }
 
     .fifteen h3 {
@@ -487,17 +535,9 @@
        font-size: 1rem;
     }
 
-    .seventeen {
-        margin-right: 8rem;
-    }
-
      .eighteen h3 {
         font-size: 1.5rem;
         padding-bottom: 1rem;
-    }
-
-    .eighteen p {
-       font-size: 0.7rem;
     }
 
     .eighteen {
@@ -509,12 +549,8 @@
         padding-bottom: 1rem;
     }
 
-    .nineteen p {
-       font-size: 0.7rem;
-    }
-    
     .nineteen {
-        left: 18rem;
+        left: 22rem;
     }
 
     .twenty h3 {
@@ -522,40 +558,24 @@
         padding-bottom: 1rem;
     }
 
-    .twenty p {
-       font-size: 0.7rem;
-    }
-
-    .twenty {
-        right: 9rem;
-    }
-
-    .intro2 {
-        margin-right: 5rem;
-        margin-left: 5rem;
-        margin-top: 3rem;
+    .flexbox7 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero8 {
         height: 150rem;
     }
 
-    .flexbox7 {
-        margin-right: 5rem;
-    }
-
     .sub-heading {
-        margin-right: 10rem;
-        text-align: center;
-    }
-
-    #see {
-        margin-right: 5rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: 10rem;
     }
 
     .big-image img {
         width: 35rem;
-        margin-right: 10rem;
     }
 
     .image1 img {
@@ -570,10 +590,6 @@
         width: 12rem;
     }
 
-    .image3 {
-        margin-right: 9rem;
-    }
-
     .image4 img {
         width: 12rem;
     }
@@ -582,12 +598,8 @@
         width: 12rem;
     }
 
-    .image6 img {
+    .images6 img {
         width: 12rem;
-    }
-
-    .image6 {
-        margin-right: 9rem;
     }
 
     #empty4 {
@@ -603,7 +615,6 @@
     }
 
     #short2 {
-        margin-top: 8rem;
         margin-left: 1rem;
     } 
 
@@ -619,17 +630,8 @@
         width: 12rem;
     }
 
-    .image9 {
-        margin-right: 7rem;
-    }
-
-    .explore {
-        margin-right: 5rem;
-    }
-
     #campus {
         width: 40rem;
-        margin-right: 6.5rem;
     }
 
     .must h3 {
@@ -649,7 +651,7 @@
     }
 
     .sample2 {
-        margin-right: 6rem;
+        margin-right: 1rem;
     }
 
     .meet h3 {
@@ -668,6 +670,10 @@
 
     .flexbox16 {
         flex-direction: column;
+    }
+
+    .hero10 h3 {
+        font-size: 2rem;
     }
 
     .last3 {
@@ -715,7 +721,7 @@
         color: white;
         font-size: 2rem;
         display: flex;
-        margin-left: 23rem;
+        margin-left: 30rem;
         padding-top: 1rem;
     }
 
@@ -729,14 +735,14 @@
     
     .nav-links {
         padding: 1.5rem 0;
-        background-color: blueviolet;
+        background-color: brown;
         display: none;
         flex-direction: column;
         position: absolute;
-        top: 100px;
+        top: 80px;
         left: 0;
-        right: 10rem;
         width: 90%;
+        z-index: 1;
     }
 
     .nav-links li {
@@ -748,10 +754,6 @@
         display: block;
     }
 
-    .flexbox {
-        margin-left: 1rem;
-    }
-
     .two h1 {
         font-size: 1.5rem;
     }
@@ -760,41 +762,16 @@
         font-size: 1rem;
     }
 
-    .two {
-        margin: 0 2rem;
-    }
-
-    .flexbox1 {
-        margin-left: 5rem;
-    }
-
     .four p {
         font-size: 1rem;
     }
 
-    .six p {
-        font-size: 1rem;
-        padding-left: 0;
+    .eight h2 {
+        font-size: 2rem;
     }
 
-    .five {
-        padding: 0 3rem;
-    }
-
-    .seven {
-        margin-right: 2rem;
-    }
-
-    .eight p {
-        font-size: 0.85rem;
-    }
-
-    .nine {
-        margin-left: 1rem;
-    }
-
-    .fourteen {
-        margin-left: 1rem;
+    #empty {
+        width: 30rem;
     }
 
     #empty2 {
@@ -813,6 +790,7 @@
     .sixteen {
         margin: 1.5rem 0;
     }
+
     .hero6 {
         height: 20rem;
     }
@@ -835,17 +813,12 @@
         left: 1rem;
     }
 
-    .intro2 {
-        margin-left: 3.5rem;
+    .sub-heading {
+        margin-left: 0;
     }
 
     .big-image img{
         width: 30rem;
-        margin-right: 2rem;
-    }
-
-    .hero10 h3 {
-        padding-left: 2rem;
     }
 
     .hero10 {
@@ -862,7 +835,8 @@
 
     .flexbox8 {
         flex-direction: column;
-        margin-left: 5rem;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero11 {
@@ -871,7 +845,8 @@
 
     .flexbox9 {
         flex-direction: column;
-        margin-left: 5rem;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero11 img {
@@ -888,11 +863,12 @@
 
     .flexbox10 {
         flex-direction: column;
-        margin-left: 3rem;
+        justify-content: center;
+        align-items: center;
     }
 
     #short2 {
-        margin-top: 4rem;
+        margin-top: 0;
         width: 20rem;
     }
 
@@ -910,12 +886,15 @@
 
     .flexbox11 {
         flex-direction: column;
-        margin-left: 5rem;
+        justify-content: center;
+        align-items: center;
+
     }
 
     .flex-container2 {
         flex-direction: column;
-        margin-left: 5rem;
+        justify-content: center;
+        align-items: center;
     }
 
     .image8 {
@@ -924,12 +903,12 @@
 
     #campus {
         width: 27rem;
-        margin-left: 3rem;
-        
     }
 
     .flexbox12 {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .must h3 {
@@ -948,7 +927,8 @@
 
     .flex-container {
         flex-direction: column;
-        margin-left: 3rem;
+        justify-content: center;
+        align-items: center;
     }
     
     .hero16 {
@@ -965,12 +945,10 @@
 
     .sample {
         margin-top: 2rem;
-        margin-left: 7rem;
     }
 
     .sample2 {
         margin-top: 2rem;
-        margin-left: 7rem;
     }
 
     .hero17 {
@@ -983,6 +961,8 @@
 
     .flexbox13 {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero18 img {
